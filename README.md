@@ -1,4 +1,4 @@
-Snapshot on 2018-02-28
+Bitcoin Private - Bitcoin Snapshot on 2018-02-28
 
 `./dump.py BITCOIN_DATADIR OUTPUT_DIR --verbose=True --reindex=True --bitcoind BITCOIND_PATH --blockheight=511346 --vmcp_file=./vmcp.csv`
 
